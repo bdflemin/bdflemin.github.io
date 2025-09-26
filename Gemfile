@@ -1,1 +1,1 @@
-gem "github-pages", group: :jekyll_plugins
+gem "minima", github: "jekyll/minima", ref: "1e8a445"
