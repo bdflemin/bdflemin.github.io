@@ -2,7 +2,7 @@
 layout: post
 title: "Productivity Dysmorphia Setting In"
 date: 2025-10-28 22:00:00 -0500
-categories: [post, thoughts, productivity]
+categories: [post, thoughts]
 ---
 > The pursuit of productivity spurs us to do more while robbing us of the ability to savor any success we might encounter along the way.
 
